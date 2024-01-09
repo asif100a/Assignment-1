@@ -154,11 +154,42 @@
 }
 
 /* Started The Main section------- */
-#rectangle{
+#div-style{
+    background-color: white;
+    width: 1420px;
+    height: 7385px; 
+    margin-top: 100px;
+}
+.best-gift{
+    margin-left: 35px;
+}
+.gift-style{
     list-style: none;
+}
+.the-best{
+    font-size: 24px;
+    font-weight: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.portfolio{
+    font-size: 48px;
+    font-weight: 900px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: capitalize;
+}
+.rectangle{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    margin: 15px 25px;
 }
 
 .photo-style{
     width: 424px;
     height: 450px;
+}
+
+/* The Footer section has started---- */
+.message{
+    margin-top: 10px;
 }
