@@ -1,3 +1,76 @@
-header{
-    background-image: 
+/* Header section */
+.new-year-head{
+    /* font-family:  */
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.party-head{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 120px;
+    font-style: normal;
+    font-weight: 900;
+}
+
+/* Primary section------ */
+.primary-white{
+    color: white;
+}
+.primary-orangered{
+    color: orangered
+}
+.primary-center{
+    text-align: center;
+}
+
+/* Banner Section */
+.banner-image{
+    background-image: url('../resources/Banner\ Image.png');    
+    width: 1260px;
+    height: 600px;
+    border-radius: 16px;
+    margin: 50px 105px;
+}
+nav li{
+    list-style: none;
+    text-align: center;
+}
+.ul-style{
+    padding-top: 120px;
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+}
+
+/* OFF section---------- */
+.nav-off{
+    margin-top: 130px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#ol-all{
+    margin-top: 50px;
+}
+.off{
+    
+    font-family: sans-serif;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+}
+.primary-font-size{
+    font-size: 25px;
+}
+.categories{
+    color: black;
+    font-family: sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    margin: 16px;
+}
+
+/* New Year Photo section------ */
+.new-year-photo{
+    width: 800px;
+    height: 500px;    
 }
