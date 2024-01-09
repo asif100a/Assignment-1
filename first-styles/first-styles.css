@@ -32,7 +32,7 @@
     border-radius: 16px;
     margin: 50px 105px;
 }
-nav li{
+.nav-li{
     list-style: none;
     text-align: center;
 }
@@ -73,4 +73,30 @@ nav li{
 .new-year-photo{
     width: 800px;
     height: 500px;    
+}
+
+/* Midnight party section------- */
+.div-midnight-image{
+    background-image: url('../resources/Vectorrr.png');
+    width: 1320px;
+    height: 600px;
+}
+.nav-style{
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    padding-top: 100px;
+}
+.nav-ul-style{
+    list-style: none;
+}
+.space{
+    display: flex;
+    justify-content: space-between;
+}
+.midnight{
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px; /* 137.5% */
+    letter-spacing: 7.04px;
 }
