@@ -157,8 +157,7 @@
 #div-style{
     background-color: white;
     width: 1420px;
-    height: 7385px; 
-    margin-top: 100px;
+    margin-top: 120px;
 }
 .best-gift{
     margin-left: 35px;
@@ -192,4 +191,80 @@
 /* The Footer section has started---- */
 .message{
     margin-top: 10px;
+    text-align: center;
+    background-color: mistyrose;
+    width: 1320px;
+    height: 448px;
+    margin-left: 70px;
+    margin-top: 120px;
+    border-radius: 16px;
+    padding-top: 80px;
+}
+.li-style{
+    list-style: none;
+}
+#subscribe{
+    font-size: 48px;
+    font-style: normal;
+    font-weight: bolder;
+    margin-top: 24px;
+}
+#better{
+    font-style:;
+    padding-top: 10px;
+}
+.ol-text{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.text{
+    width: 350px;
+    height: 48px;
+    margin-left: 415px;
+    border-radius: 50px 0px 0px 50px;
+    border: none;
+}
+#btn-subscribe{
+    text-align: center;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: capitalize;
+    border-radius: 0px 50px 50px 0px;
+    border: none;
+    background: orangered;
+    margin-right: 415px;
+    padding: 18px;
+}
+#under-text{
+    margin-top: 32px;
+}
+
+.background{
+    width: 1600px;
+    height: 609px;
+    flex-shrink: 0;
+    background-color: #070211;
+}
+.black-list{
+    list-style: none;
+}
+.call{
+    display: flex;
+}
+.margin{
+    margin-left: 7px;
+}
+
+.primary-space{
+    display: flex;
+    justify-content: space-evenly;
+}
+.block{
+    padding-top: 120px;
+}
+hr{
+    width: 1220px;
+    height: 1px;
+    align: center;
 }
